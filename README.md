@@ -1,5 +1,5 @@
 # TAC - Absorbed In Creating Global Biggest Traceability Public Chain
-&nbsp;&nbsp;We hope to, basing on the technology of block chain, adopting unique non-tamper distributed ledger characteristics of the block chain, build the traceability cloud platform, solve the enterprise's difficulties in information traceability, anti-counterfeit, verification and mobile marketing during commodity production.
+&nbsp;&nbsp;We hope to, basing on the technology of block chain, adopting unique non-tamper distributed ledger characteristics of the block chain, build the traceability cloud platform, solve the enterprise's difficulties in information traceability, anti-counterfeit, verification and mobile marketing during commodity production. 
   
 &nbsp;&nbsp;Circulation and distribution and terminal consumption process through the sub-chain of the landing project and corresponding DAPP application, and provide a fast and efficient cluster of cloud services development for the technical developers, so as to solve the problem of "trusted" for brand enterprises and consumers, and then build a new block chain ecosystem ---Traceability Chain as the future world-selectable internet value transmission protocol, and push forward the practicability and usability of the whole block chain industry.
 
