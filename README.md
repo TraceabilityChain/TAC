@@ -7,5 +7,9 @@
 
 &nbsp;&nbsp;Traceability Chain will also constantly and gradually form the block chain economy through the construction of the foundation platform, the design and development of the software and hardware products, the development of various products and the development and iteration of the commercial landing project, improve the industry efficiency, and promote the effective and collaborative development of the society.
 
-# White Paper
+## White Paper
 To learn more about TAC, please read the [White Paper](http://dl.tacblock.com/Traceability_Chain_Whitepaper_eng.pdf)|[白皮书](http://dl.tacblock.com/Traceability_Chain_Whitepaper.pdf).
+
+## Official Links
+Official website : [ENG](https://tacchain.io) | [中文官网](https://tacchain.cn)  
+Company News : [ENG](https://blog.tacchain.io) | [中文博客](https://blog.tacchain.cn)
