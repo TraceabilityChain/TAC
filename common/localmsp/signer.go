@@ -16,6 +16,23 @@ limitations under the License.
 
 package localmsp
 
+import (
+"fmt"
+
+"github.com/traceabilitychain/tacchain/common/crypto"
+mspmgmt "github.com/traceabilitychain/tacchain/msp/mgmt"
+cb "github.com/traceabilitychain/tacchain/protos/common"
+)
+
+type mspSigner struct {
+}
+
+// NewSigner returns a new instance of the msp-based LocalSigner.
+// It assumes that the local msp has been already initialized.
+// Look at mspmgmt.LoadLocalMsp for further information.
+func NewSigner() crypto.LocalSigner {
+return &mspSigner{}
+}
 
 // NewSignatureHeader creates a SignatureHeader with the correct signing identity and a valid nonce
 func (s *mspSigner) NewSignatureHeader() (*cb.SignatureHeader, error) {
