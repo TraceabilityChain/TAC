@@ -17,6 +17,22 @@ limitations under the License.
 package localmsp
 
 
+import (
+"os"
+"testing"
+
+"github.com/traceabilitychain/tacchain/common/crypto"
+mspmgmt "github.com/traceabilitychain/tacchain/msp/mgmt"
+"github.com/stretchr/testify/assert"
+)
+
+func TestMain(m *testing.M) {
+if err := mspmgmt.LoadDevMsp(); err != nil {
+os.Exit(-1)
+}
+
+os.Exit(m.Run())
+}
 
 func TestNewSigner(t *testing.T) {
 	signer := NewSigner()
